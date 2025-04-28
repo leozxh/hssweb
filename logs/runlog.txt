@@ -1,0 +1,558 @@
+2025-04-22 16:46:57,048 caps.py[line:35] INFO ���ʺ�������ʽ����������ҳ�������
+2025-04-22 16:47:01,068 siginView.py[line:48] INFO ��¼������֤
+2025-04-22 16:47:01,242 siginView.py[line:15] INFO �����¼
+2025-04-22 16:47:01,355 common_fun.py[line:47] INFO �ɹ��ҵ�Ԫ��: button.el-button.loginBtn.el-button--default
+2025-04-22 16:47:01,466 siginView.py[line:18] INFO �л������¼ҳ��
+2025-04-22 16:47:01,485 baseView.py[line:28] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-22 16:47:01,566 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="�������˺�"]')
+2025-04-22 16:47:01,744 siginView.py[line:23] INFO �û��ֻ�����:13297941815
+2025-04-22 16:47:01,760 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="����������"]')
+2025-04-22 16:47:01,876 siginView.py[line:27] INFO ������:654321
+2025-04-22 16:47:01,892 baseView.py[line:28] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-22 16:47:01,977 common_fun.py[line:47] INFO �ɹ��ҵ�Ԫ��: body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > button
+2025-04-22 16:53:18,334 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-22 16:53:22,246 siginView.py[line:48] INFO 登录功能验证
+2025-04-22 16:53:22,413 siginView.py[line:15] INFO 点击登录
+2025-04-22 16:53:22,509 common_fun.py[line:47] INFO 成功找到元素: button.el-button.loginBtn.el-button--default
+2025-04-22 16:53:22,615 siginView.py[line:18] INFO 切换密码登录页面
+2025-04-22 16:53:22,634 baseView.py[line:28] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-22 16:53:22,705 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-22 16:53:22,903 siginView.py[line:23] INFO 用户手机号是:13297941815
+2025-04-22 16:53:22,921 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-22 16:53:23,029 siginView.py[line:27] INFO 密码是:654321
+2025-04-22 16:53:23,046 baseView.py[line:28] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-22 16:53:23,134 common_fun.py[line:47] INFO 成功找到元素: body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > button
+2025-04-22 16:55:18,747 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-22 16:55:22,222 siginView.py[line:48] INFO 登录功能验证
+2025-04-22 16:55:22,397 siginView.py[line:15] INFO 点击登录
+2025-04-22 16:55:22,610 siginView.py[line:18] INFO 切换密码登录页面
+2025-04-22 16:55:22,635 baseView.py[line:28] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-22 16:55:22,710 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-22 16:55:22,897 siginView.py[line:23] INFO 用户手机号是:13297941815
+2025-04-22 16:55:22,913 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-22 16:55:23,016 siginView.py[line:27] INFO 密码是:654321
+2025-04-22 16:55:23,032 baseView.py[line:28] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-27 14:48:34,215 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 14:48:37,926 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 14:48:38,057 siginView.py[line:15] INFO 点击登录
+2025-04-27 14:48:38,273 siginView.py[line:18] INFO 切换密码登录页面
+2025-04-27 14:48:38,321 baseView.py[line:28] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-27 14:48:38,397 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-27 14:48:38,578 siginView.py[line:23] INFO 用户手机号是:13297941815
+2025-04-27 14:48:38,596 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-27 14:48:38,722 siginView.py[line:27] INFO 密码是:654321
+2025-04-27 14:48:38,741 baseView.py[line:28] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-27 14:48:38,861 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 14:48:38,868 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 14:48:38,868 test_fontpage.py[line:33] INFO 视频详情功能验证
+2025-04-27 14:48:38,882 baseView.py[line:28] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 14:48:39,685 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 15:02:08,130 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 15:02:12,950 report.py[line:19] INFO start run testcase...
+2025-04-27 15:02:12,951 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 15:02:13,086 siginView.py[line:15] INFO 点击登录
+2025-04-27 15:02:13,268 siginView.py[line:18] INFO 切换密码登录页面
+2025-04-27 15:02:13,286 baseView.py[line:28] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-27 15:02:13,366 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-27 15:02:13,520 siginView.py[line:23] INFO 用户手机号是:13297941815
+2025-04-27 15:02:13,536 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-27 15:02:13,644 siginView.py[line:27] INFO 密码是:654321
+2025-04-27 15:02:13,658 baseView.py[line:28] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-27 15:02:13,772 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 15:02:13,773 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 15:02:13,773 test_fontpage.py[line:33] INFO 视频详情功能验证
+2025-04-27 15:02:13,784 baseView.py[line:28] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 15:02:14,568 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 15:21:42,515 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 15:21:47,026 report.py[line:19] INFO start run testcase...
+2025-04-27 15:21:47,028 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 15:21:47,160 siginView.py[line:15] INFO 点击登录
+2025-04-27 15:21:47,346 siginView.py[line:18] INFO 切换密码登录页面
+2025-04-27 15:21:47,358 baseView.py[line:28] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-27 15:21:47,439 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-27 15:21:47,620 siginView.py[line:23] INFO 用户手机号是:13297941815
+2025-04-27 15:21:47,637 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-27 15:21:47,747 siginView.py[line:27] INFO 密码是:654321
+2025-04-27 15:21:47,763 baseView.py[line:28] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-27 15:21:47,881 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 15:21:47,881 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 15:21:47,881 test_fontpage.py[line:33] INFO 视频详情功能验证
+2025-04-27 15:21:47,896 baseView.py[line:28] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 15:21:48,604 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 15:48:25,542 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 15:48:32,810 report.py[line:19] INFO start run testcase...
+2025-04-27 15:48:32,810 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 15:48:32,878 siginView.py[line:15] INFO 点击登录
+2025-04-27 15:48:33,248 siginView.py[line:18] INFO 切换密码登录页面
+2025-04-27 15:48:33,267 baseView.py[line:28] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-27 15:48:33,336 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-27 15:48:33,426 siginView.py[line:23] INFO 用户手机号是:13297941815
+2025-04-27 15:48:33,440 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-27 15:48:33,517 siginView.py[line:27] INFO 密码是:654321
+2025-04-27 15:48:33,544 baseView.py[line:28] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-27 15:48:33,659 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 15:48:33,660 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 15:48:33,660 test_fontpage.py[line:33] INFO 视频详情功能验证
+2025-04-27 15:48:33,670 baseView.py[line:28] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 15:48:34,435 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 15:59:29,886 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 15:59:33,261 report.py[line:19] INFO 开始测试...
+2025-04-27 15:59:33,262 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 15:59:33,270 siginView.py[line:15] INFO 点击登录
+2025-04-27 15:59:33,549 siginView.py[line:18] INFO 切换密码登录页面
+2025-04-27 15:59:33,570 baseView.py[line:28] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-27 15:59:33,649 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-27 15:59:33,802 siginView.py[line:23] INFO 用户手机号是:13297941815
+2025-04-27 15:59:33,818 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-27 15:59:33,921 siginView.py[line:27] INFO 密码是:654321
+2025-04-27 15:59:33,933 baseView.py[line:28] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-27 15:59:34,042 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 15:59:34,042 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 15:59:34,043 test_fontpage.py[line:33] INFO 视频详情功能验证
+2025-04-27 15:59:34,053 baseView.py[line:28] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 15:59:34,791 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 16:21:26,389 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 16:21:29,992 report.py[line:39] INFO 开始测试...
+2025-04-27 16:21:29,993 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 16:21:30,150 siginView.py[line:15] INFO 点击登录
+2025-04-27 16:21:30,342 siginView.py[line:18] INFO 切换密码登录页面
+2025-04-27 16:21:30,355 baseView.py[line:28] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-27 16:21:30,414 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-27 16:21:30,559 siginView.py[line:23] INFO 用户手机号是:13297941815
+2025-04-27 16:21:30,574 baseView.py[line:28] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-27 16:21:30,700 siginView.py[line:27] INFO 密码是:654321
+2025-04-27 16:21:30,717 baseView.py[line:28] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-27 16:21:30,835 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 16:21:30,835 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 16:21:30,835 test_fontpage.py[line:33] INFO 视频详情功能验证
+2025-04-27 16:21:30,851 baseView.py[line:28] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 16:21:31,627 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 16:36:04,499 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 16:36:08,092 report.py[line:43] INFO 开始测试...
+2025-04-27 16:36:08,093 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 16:36:08,100 siginView.py[line:15] INFO 点击登录
+2025-04-27 16:36:08,497 siginView.py[line:18] INFO 切换密码登录页面
+2025-04-27 16:36:08,517 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-27 16:36:08,592 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-27 16:36:08,727 siginView.py[line:23] INFO 用户手机号是:13297941815
+2025-04-27 16:36:08,744 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-27 16:36:08,829 siginView.py[line:27] INFO 密码是:654321
+2025-04-27 16:36:08,842 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-27 16:36:08,964 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 16:36:08,965 test_fontpage.py[line:19] INFO 执行用例
+2025-04-27 16:36:08,965 test_fontpage.py[line:33] INFO 视频详情功能验证
+2025-04-27 16:36:08,980 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 16:36:09,744 test_fontpage.py[line:22] INFO 执行完毕
+2025-04-27 16:56:09,901 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 16:56:12,664 test_fontpage.py[line:23] INFO Executing test case
+2025-04-27 16:56:12,665 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-27 16:56:12,994 test_fontpage.py[line:23] INFO Executing test case
+2025-04-27 16:56:12,994 test_fontpage.py[line:35] INFO Verifying video detail functionality
+2025-04-27 16:56:13,021 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 16:56:14,098 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-27 16:57:18,857 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 16:57:23,662 test_fontpage.py[line:23] INFO Executing test case
+2025-04-27 16:57:23,671 siginView.py[line:15] INFO 点击登录
+2025-04-27 16:57:23,671 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-27 16:57:23,993 test_fontpage.py[line:23] INFO Executing test case
+2025-04-27 16:57:23,994 test_fontpage.py[line:35] INFO Verifying video detail functionality
+2025-04-27 16:57:24,006 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 16:57:24,054 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-27 16:58:01,637 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 16:58:05,700 test_fontpage.py[line:23] INFO Executing test case
+2025-04-27 16:58:05,844 siginView.py[line:15] INFO 点击登录
+2025-04-27 16:58:05,844 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-27 16:58:06,096 test_fontpage.py[line:23] INFO Executing test case
+2025-04-27 16:58:06,098 test_fontpage.py[line:35] INFO Verifying video detail functionality
+2025-04-27 16:58:06,113 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 16:58:06,185 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-27 16:58:43,488 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 16:58:46,622 test_fontpage.py[line:23] INFO Executing test case
+2025-04-27 16:58:46,629 siginView.py[line:13] INFO 点击登录
+2025-04-27 16:58:46,630 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-27 16:58:46,917 test_fontpage.py[line:23] INFO Executing test case
+2025-04-27 16:58:46,917 test_fontpage.py[line:35] INFO Verifying video detail functionality
+2025-04-27 16:58:46,931 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 16:58:46,979 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-27 17:00:32,235 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 17:00:35,390 test_fontpage.py[line:23] INFO Executing test case
+2025-04-27 17:00:35,402 siginView.py[line:13] INFO 点击登录
+2025-04-27 17:00:35,403 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-27 17:00:35,679 test_fontpage.py[line:23] INFO Executing test case
+2025-04-27 17:00:35,680 test_fontpage.py[line:35] INFO Verifying video detail functionality
+2025-04-27 17:00:35,694 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-27 17:00:35,736 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-27 17:27:16,456 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 17:27:19,160 siginView.py[line:46] INFO 登录功能验证
+2025-04-27 17:27:19,408 siginView.py[line:13] INFO 点击登录
+2025-04-27 19:02:32,983 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 19:02:37,569 siginView.py[line:46] INFO 登录功能验证
+2025-04-27 19:02:37,695 siginView.py[line:13] INFO 点击登录
+2025-04-27 19:06:14,755 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-27 19:06:17,791 siginView.py[line:46] INFO 登录功能验证
+2025-04-27 19:06:17,800 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:16:25,076 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 11:16:28,602 siginView.py[line:46] INFO 登录功能验证
+2025-04-28 11:16:28,763 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:21:34,679 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 11:21:38,712 siginView.py[line:46] INFO 登录功能验证
+2025-04-28 11:21:38,855 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:22:54,290 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 11:22:56,856 siginView.py[line:46] INFO 登录功能验证
+2025-04-28 11:22:56,998 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:24:19,620 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 11:24:22,371 siginView.py[line:46] INFO 登录功能验证
+2025-04-28 11:24:22,379 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:25:34,345 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 11:25:37,621 siginView.py[line:46] INFO 登录功能验证
+2025-04-28 11:25:37,767 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:28:38,587 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 11:28:42,321 siginView.py[line:46] INFO 登录功能验证
+2025-04-28 11:28:42,451 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:28:42,630 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 11:28:42,640 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 11:28:42,704 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 11:28:42,853 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 11:28:42,865 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 11:28:42,972 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 11:28:42,984 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 11:28:43,034 siginView.py[line:36] ERROR 登录失败，错误信息: Common.wait_for_element_to_be_clickable() takes 2 positional arguments but 3 were given
+2025-04-28 11:29:00,271 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 11:29:04,049 siginView.py[line:46] INFO 登录功能验证
+2025-04-28 11:29:04,054 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:29:04,379 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 11:29:04,396 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 11:29:04,451 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 11:29:04,609 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 11:29:04,653 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 11:29:04,761 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 11:29:04,772 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 11:31:05,699 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 11:31:09,817 fontpageView.py[line:25] INFO 登录功能验证
+2025-04-28 11:31:09,954 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:31:10,153 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 11:31:10,163 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 11:31:10,214 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 11:31:10,376 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 11:31:10,393 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 11:31:10,531 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 11:31:10,544 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 11:31:10,653 fontpageView.py[line:30] INFO 视频功能验证
+2025-04-28 11:31:10,662 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 11:34:34,070 report.py[line:43] INFO 开始测试...
+2025-04-28 11:34:35,839 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 11:34:38,559 test_fontpage.py[line:23] INFO Executing test case
+2025-04-28 11:34:38,605 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:34:38,848 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 11:34:38,864 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 11:34:38,923 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 11:34:39,138 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 11:34:39,159 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 11:34:39,283 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 11:34:39,296 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 11:34:39,469 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-28 11:34:39,470 test_fontpage.py[line:23] INFO Executing test case
+2025-04-28 11:34:39,470 test_fontpage.py[line:35] INFO Verifying video detail functionality
+2025-04-28 11:34:39,481 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 11:34:40,180 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-28 11:44:52,002 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 11:44:56,179 test_fontpage.py[line:23] INFO Executing test case
+2025-04-28 11:44:56,324 siginView.py[line:13] INFO 点击登录
+2025-04-28 11:44:56,537 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 11:44:56,555 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 11:44:56,621 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 11:44:56,769 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 11:44:56,784 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 11:44:56,884 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 11:44:56,899 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 11:44:57,013 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-28 11:44:57,018 test_fontpage.py[line:23] INFO Executing test case
+2025-04-28 11:44:57,018 test_fontpage.py[line:35] INFO Verifying video detail functionality
+2025-04-28 11:44:57,029 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 11:44:57,783 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-28 12:07:56,780 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 12:08:01,334 fontpageView.py[line:33] INFO 登录功能验证
+2025-04-28 12:08:01,489 siginView.py[line:13] INFO 点击登录
+2025-04-28 12:08:01,685 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 12:08:01,701 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 12:08:01,762 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 12:08:01,911 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 12:08:01,923 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 12:08:02,035 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 12:08:02,047 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 12:08:02,167 fontpageView.py[line:38] INFO 视频功能验证
+2025-04-28 12:08:02,177 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 12:08:03,458 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 12:08:13,999 common_fun.py[line:70] ERROR 未能找到Toast提示: Message: 
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00BB6643]
+	(No symbol) [0x00B4BE21]
+	(No symbol) [0x00A4DA9D]
+	(No symbol) [0x00A81342]
+	(No symbol) [0x00A8147B]
+	(No symbol) [0x00AB8DC2]
+	(No symbol) [0x00A9FDC4]
+	(No symbol) [0x00AB6B09]
+	(No symbol) [0x00A9FB76]
+	(No symbol) [0x00A749C1]
+	(No symbol) [0x00A75E5D]
+	GetHandleVerifier [0x00E2A142+2497106]
+	GetHandleVerifier [0x00E585D3+2686691]
+	GetHandleVerifier [0x00E5BB9C+2700460]
+	GetHandleVerifier [0x00C63B10+635936]
+	(No symbol) [0x00B54A1F]
+	(No symbol) [0x00B5A418]
+	(No symbol) [0x00B5A505]
+	(No symbol) [0x00B6508B]
+	BaseThreadInitThunk [0x76565D49+25]
+	RtlInitializeExceptionChain [0x779DCEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x779DCE41+561]
+
+2025-04-28 12:08:13,999 fontpageView.py[line:21] ERROR Toast文本验证失败
+2025-04-28 12:11:24,692 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 12:11:28,567 fontpageView.py[line:35] INFO 登录功能验证
+2025-04-28 12:11:28,715 siginView.py[line:13] INFO 点击登录
+2025-04-28 12:11:28,895 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 12:11:28,912 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 12:11:28,983 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 12:11:29,152 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 12:11:29,175 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 12:11:29,288 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 12:11:29,300 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 12:11:29,425 fontpageView.py[line:40] INFO 视频功能验证
+2025-04-28 12:11:29,436 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 12:11:30,660 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 12:11:31,789 fontpageView.py[line:19] INFO Toast文本验证成功: 点赞成功
+2025-04-28 12:11:31,799 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 12:12:34,680 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 12:12:37,606 fontpageView.py[line:35] INFO 登录功能验证
+2025-04-28 12:12:37,612 siginView.py[line:13] INFO 点击登录
+2025-04-28 12:12:37,924 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 12:12:37,937 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 12:12:38,007 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 12:12:38,155 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 12:12:38,173 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 12:12:38,286 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 12:12:38,308 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 12:12:38,959 siginView.py[line:37] INFO Toast文本验证成功: 登录成功
+2025-04-28 12:12:38,960 fontpageView.py[line:40] INFO 视频功能验证
+2025-04-28 12:12:39,053 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 12:12:40,196 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 12:12:41,288 fontpageView.py[line:19] INFO Toast文本验证成功: 点赞成功
+2025-04-28 12:12:41,297 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 12:31:46,172 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 12:31:50,057 fontpageView.py[line:48] INFO 登录功能验证
+2025-04-28 12:31:50,206 siginView.py[line:13] INFO 点击登录
+2025-04-28 12:31:50,381 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 12:31:50,396 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 12:31:50,457 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 12:31:50,610 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 12:31:50,629 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 12:31:50,744 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 12:31:50,759 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 12:31:51,414 siginView.py[line:37] INFO Toast文本验证成功: 登录成功
+2025-04-28 12:31:51,415 fontpageView.py[line:53] INFO 视频功能验证
+2025-04-28 12:31:51,428 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 12:31:52,234 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 12:31:53,471 fontpageView.py[line:19] INFO Toast文本验证成功: 点赞成功
+2025-04-28 12:31:53,480 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 12:31:53,533 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(4) > i')
+2025-04-28 12:31:54,465 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > div > input')
+2025-04-28 12:31:54,700 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > p')
+2025-04-28 12:32:05,155 common_fun.py[line:70] ERROR 未能找到Toast提示: Message: 
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00BB6643]
+	(No symbol) [0x00B4BE21]
+	(No symbol) [0x00A4DA9D]
+	(No symbol) [0x00A81342]
+	(No symbol) [0x00A8147B]
+	(No symbol) [0x00AB8DC2]
+	(No symbol) [0x00A9FDC4]
+	(No symbol) [0x00AB6B09]
+	(No symbol) [0x00A9FB76]
+	(No symbol) [0x00A749C1]
+	(No symbol) [0x00A75E5D]
+	GetHandleVerifier [0x00E2A142+2497106]
+	GetHandleVerifier [0x00E585D3+2686691]
+	GetHandleVerifier [0x00E5BB9C+2700460]
+	GetHandleVerifier [0x00C63B10+635936]
+	(No symbol) [0x00B54A1F]
+	(No symbol) [0x00B5A418]
+	(No symbol) [0x00B5A505]
+	(No symbol) [0x00B6508B]
+	BaseThreadInitThunk [0x76565D49+25]
+	RtlInitializeExceptionChain [0x779DCEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x779DCE41+561]
+
+2025-04-28 12:32:05,155 fontpageView.py[line:36] ERROR Toast文本验证失败
+2025-04-28 15:31:47,757 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 15:31:50,996 fontpageView.py[line:48] INFO 登录功能验证
+2025-04-28 15:31:51,001 siginView.py[line:13] INFO 点击登录
+2025-04-28 15:31:51,337 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 15:31:51,350 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 15:31:51,411 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 15:31:51,575 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 15:31:51,589 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 15:31:51,719 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 15:31:51,732 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 15:31:52,439 siginView.py[line:37] INFO Toast文本验证成功: 登录成功
+2025-04-28 15:31:52,440 fontpageView.py[line:53] INFO 视频功能验证
+2025-04-28 15:31:52,457 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 15:31:53,118 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 15:31:54,405 fontpageView.py[line:19] INFO Toast文本验证成功: 点赞成功
+2025-04-28 15:31:54,416 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 15:31:54,501 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(4) > i')
+2025-04-28 15:31:55,362 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > div > input')
+2025-04-28 15:31:55,625 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > p')
+2025-04-28 15:32:06,078 common_fun.py[line:70] ERROR 未能找到Toast提示: Message: 
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00BB6643]
+	(No symbol) [0x00B4BE21]
+	(No symbol) [0x00A4DA9D]
+	(No symbol) [0x00A81342]
+	(No symbol) [0x00A8147B]
+	(No symbol) [0x00AB8DC2]
+	(No symbol) [0x00A9FDC4]
+	(No symbol) [0x00AB6B09]
+	(No symbol) [0x00A9FB76]
+	(No symbol) [0x00A749C1]
+	(No symbol) [0x00A75E5D]
+	GetHandleVerifier [0x00E2A142+2497106]
+	GetHandleVerifier [0x00E585D3+2686691]
+	GetHandleVerifier [0x00E5BB9C+2700460]
+	GetHandleVerifier [0x00C63B10+635936]
+	(No symbol) [0x00B54A1F]
+	(No symbol) [0x00B5A418]
+	(No symbol) [0x00B5A505]
+	(No symbol) [0x00B6508B]
+	BaseThreadInitThunk [0x76565D49+25]
+	RtlInitializeExceptionChain [0x779DCEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x779DCE41+561]
+
+2025-04-28 15:32:06,078 fontpageView.py[line:36] ERROR Toast文本验证失败
+2025-04-28 15:35:54,959 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 15:35:58,058 fontpageView.py[line:43] INFO 登录功能验证
+2025-04-28 15:35:58,066 siginView.py[line:13] INFO 点击登录
+2025-04-28 15:35:58,388 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 15:35:58,407 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 15:35:58,471 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 15:35:58,625 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 15:35:58,641 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 15:35:58,760 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 15:35:58,773 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 15:35:59,425 siginView.py[line:37] INFO Toast文本验证成功: 登录成功
+2025-04-28 15:35:59,425 fontpageView.py[line:48] INFO 视频功能验证
+2025-04-28 15:35:59,459 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 15:36:00,166 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 15:36:01,386 fontpageView.py[line:19] INFO Toast文本验证成功: 点赞成功
+2025-04-28 15:36:01,398 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 15:36:01,446 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(4) > i')
+2025-04-28 15:36:02,348 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > div > input')
+2025-04-28 15:36:02,646 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > p')
+2025-04-28 15:43:41,991 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 15:43:46,046 fontpageView.py[line:55] INFO 登录功能验证
+2025-04-28 15:43:46,052 siginView.py[line:13] INFO 点击登录
+2025-04-28 15:43:46,388 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 15:43:46,417 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 15:43:46,476 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 15:43:46,635 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 15:43:46,653 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 15:43:46,769 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 15:43:46,781 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 15:43:47,443 siginView.py[line:37] INFO Toast文本验证成功: 登录成功
+2025-04-28 15:43:47,443 fontpageView.py[line:60] INFO 视频功能验证
+2025-04-28 15:43:47,478 baseView.py[line:45] INFO Elements found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div')
+2025-04-28 15:43:57,965 baseView.py[line:30] ERROR Element not found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i'), error: Message: 
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00BB6643]
+	(No symbol) [0x00B4BE21]
+	(No symbol) [0x00A4DA9D]
+	(No symbol) [0x00A81342]
+	(No symbol) [0x00A8147B]
+	(No symbol) [0x00AB8DC2]
+	(No symbol) [0x00A9FDC4]
+	(No symbol) [0x00AB6B09]
+	(No symbol) [0x00A9FB76]
+	(No symbol) [0x00A749C1]
+	(No symbol) [0x00A75E5D]
+	GetHandleVerifier [0x00E2A142+2497106]
+	GetHandleVerifier [0x00E585D3+2686691]
+	GetHandleVerifier [0x00E5BB9C+2700460]
+	GetHandleVerifier [0x00C63B10+635936]
+	(No symbol) [0x00B54A1F]
+	(No symbol) [0x00B5A418]
+	(No symbol) [0x00B5A505]
+	(No symbol) [0x00B6508B]
+	BaseThreadInitThunk [0x76565D49+25]
+	RtlInitializeExceptionChain [0x779DCEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x779DCE41+561]
+
+2025-04-28 15:46:09,646 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 15:46:17,942 fontpageView.py[line:55] INFO 登录功能验证
+2025-04-28 15:46:18,085 siginView.py[line:13] INFO 点击登录
+2025-04-28 15:46:18,264 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 15:46:18,292 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 15:46:18,373 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 15:46:18,576 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 15:46:18,591 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 15:46:18,686 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 15:46:18,699 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 15:46:19,426 siginView.py[line:37] INFO Toast文本验证成功: 登录成功
+2025-04-28 15:46:19,427 fontpageView.py[line:60] INFO 视频功能验证
+2025-04-28 15:46:19,542 baseView.py[line:45] INFO Elements found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div')
+2025-04-28 15:46:37,619 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 15:46:40,850 fontpageView.py[line:55] INFO 登录功能验证
+2025-04-28 15:46:40,856 siginView.py[line:13] INFO 点击登录
+2025-04-28 15:46:41,186 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 15:46:41,202 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 15:46:41,262 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 15:46:41,462 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 15:46:41,478 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 15:46:41,584 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 15:46:41,595 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 15:46:42,251 siginView.py[line:37] INFO Toast文本验证成功: 登录成功
+2025-04-28 15:46:42,251 fontpageView.py[line:60] INFO 视频功能验证
+2025-04-28 15:46:42,288 baseView.py[line:45] INFO Elements found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div')
+2025-04-28 15:46:52,910 common_fun.py[line:56] ERROR 元素 ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i') 在 10 秒内不可点击
+2025-04-28 15:47:45,823 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 15:47:49,040 fontpageView.py[line:44] INFO 登录功能验证
+2025-04-28 15:47:49,046 siginView.py[line:13] INFO 点击登录
+2025-04-28 15:47:49,359 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 15:47:49,372 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 15:47:49,440 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 15:47:49,602 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 15:47:49,619 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 15:47:49,725 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 15:47:49,735 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 15:47:50,401 siginView.py[line:37] INFO Toast文本验证成功: 登录成功
+2025-04-28 15:47:50,401 fontpageView.py[line:49] INFO 视频功能验证
+2025-04-28 15:47:50,433 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 15:47:52,805 fontpageView.py[line:20] INFO Toast文本验证成功: 点赞成功
+2025-04-28 15:47:52,820 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 15:47:52,894 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(4) > i')
+2025-04-28 15:47:53,745 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > div > input')
+2025-04-28 15:47:53,975 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > p')
+2025-04-28 15:56:26,866 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-28 15:56:29,339 fontpageView.py[line:46] INFO 登录功能验证
+2025-04-28 15:56:29,384 siginView.py[line:13] INFO 点击登录
+2025-04-28 15:56:29,734 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-28 15:56:29,758 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-28 15:56:29,825 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-28 15:56:30,030 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-28 15:56:30,064 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-28 15:56:30,167 siginView.py[line:25] INFO 密码是:654321
+2025-04-28 15:56:30,176 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-28 15:56:30,831 siginView.py[line:37] INFO Toast文本验证成功: 登录成功
+2025-04-28 15:56:30,831 fontpageView.py[line:51] INFO 视频功能验证
+2025-04-28 15:56:30,864 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-28 15:56:31,601 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 15:56:32,745 fontpageView.py[line:20] INFO Toast文本验证成功: 点赞成功
+2025-04-28 15:56:32,758 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-28 15:56:32,803 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(4) > i')
+2025-04-28 15:56:33,683 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > div > input')
+2025-04-28 15:56:33,886 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > p')
+2025-04-28 15:56:33,973 baseView.py[line:27] INFO Element found: ('css selector', '#el-drawer__title > button > i')
