@@ -53,5 +53,4 @@ if __name__ == '__main__':
         logging.info('登录功能验证')
         l.login_action('13297941815', '654321')
     finally:
-        # sleep(3)
         driver.quit()  # 注释掉此行
