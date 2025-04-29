@@ -556,3 +556,27 @@ Backtrace:
 2025-04-28 15:56:33,683 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > div > input')
 2025-04-28 15:56:33,886 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > p')
 2025-04-28 15:56:33,973 baseView.py[line:27] INFO Element found: ('css selector', '#el-drawer__title > button > i')
+2025-04-29 11:08:01,525 report.py[line:43] INFO 开始测试...
+2025-04-29 11:08:03,382 caps.py[line:35] INFO 访问狐少少正式环境官网，页面加载中
+2025-04-29 11:08:15,565 test_fontpage.py[line:23] INFO Executing test case
+2025-04-29 11:08:15,572 siginView.py[line:13] INFO 点击登录
+2025-04-29 11:08:15,954 siginView.py[line:16] INFO 切换密码登录页面
+2025-04-29 11:08:15,978 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-dialog__wrapper.loginDialog > div > div.el-dialog__body > div > div.loginMain > div:nth-child(1) > div.tabs > div:nth-child(3)')
+2025-04-29 11:08:16,050 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入账号"]')
+2025-04-29 11:08:16,263 siginView.py[line:21] INFO 用户手机号是:13297941815
+2025-04-29 11:08:16,276 baseView.py[line:27] INFO Element found: ('css selector', '.el-input__inner[placeholder="请输入密码"]')
+2025-04-29 11:08:16,395 siginView.py[line:25] INFO 密码是:654321
+2025-04-29 11:08:16,415 baseView.py[line:27] INFO Element found: ('css selector', '.bottomRadio .icon-sohu-danxuanweixuanzhong')
+2025-04-29 11:08:17,103 siginView.py[line:37] INFO Toast文本验证成功: 登录成功
+2025-04-29 11:08:17,103 test_fontpage.py[line:26] INFO Test case execution completed
+2025-04-29 11:08:17,103 test_fontpage.py[line:23] INFO Executing test case
+2025-04-29 11:08:17,103 test_fontpage.py[line:35] INFO Verifying video detail functionality
+2025-04-29 11:08:17,139 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div.maskBox')
+2025-04-29 11:08:18,374 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-29 11:08:19,490 fontpageView.py[line:20] INFO Toast文本验证成功: 点赞成功
+2025-04-29 11:08:19,498 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(3) > i')
+2025-04-29 11:08:19,557 baseView.py[line:27] INFO Element found: ('css selector', '#app > section > section > main > div > div > div.leftMainBox > div.videoContainer > div.videoList > div:nth-child(1) > div:nth-child(3) > div > div.btn-box > div.btns-main > div:nth-child(4) > i')
+2025-04-29 11:08:20,475 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > div > input')
+2025-04-29 11:08:20,665 baseView.py[line:27] INFO Element found: ('css selector', 'body > div.el-drawer__wrapper > div > div > section > div > div > div:nth-child(2) > div > p')
+2025-04-29 11:08:20,747 baseView.py[line:27] INFO Element found: ('css selector', '#el-drawer__title > button > i')
+2025-04-29 11:08:20,801 test_fontpage.py[line:26] INFO Test case execution completed
